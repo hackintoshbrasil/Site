@@ -17,11 +17,11 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
 }
 
 .bg-dark {
-  background-color: $secondary !important;
+  background-color: $black !important;
 }
 
 .border-dark {
-  border-color: $secondary !important;
+  border-color: $black !important;
 }
 
 // Buttons =====================================================================
@@ -82,6 +82,32 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
 }
 
 // Typography ==================================================================
+
+.size {
+
+  &-twentyfive {
+    font-size: 25%;
+  }
+  &-fifty {
+    font-size: 50%;
+  }
+  &-seventyfive {
+    font-size: 75%;
+  }
+  &-primary{
+    font-size: 150%;
+  }
+  &-secondary{
+    font-size: 125%;
+  }
+  &-tertiary {
+    font-size: 115%;
+  }
+  &-quaternary {
+    font-size: 105%;
+  }
+
+}
 
 // Tables ======================================================================
 
@@ -326,3 +352,5 @@ legend {
     color: inherit;
   }
 }
+
+// Customizações BRHackintosh

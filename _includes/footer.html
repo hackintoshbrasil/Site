@@ -1,11 +1,6 @@
-
-<div class="py-5 border-top">
-  <div class="container">
-
-    <p class="h5 mb-3">{{ site.title | escape }}</p>
-
+<div class="py-2 border-top">
+  <div class="container-fluid">
     <div class="row">
-
       <div class="col-sm">
         <ul class="list-unstyled">
           <li>
@@ -24,17 +19,17 @@
           {%- endif -%}
         </ul>
       </div>
-
-
-      <div class="col-sm text-right">
-        <p>{{- site.description | escape -}}</p>
-
-        <p>
-          <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Powered by Bootstrap 4 Github Pages</a>
-        </p>
+      <div class="col-sm-1">
+        <a class="nav-link" href="https://www.facebook.com/groups/hackintoshbrazil" target="_blank">
+          <img src="{{site.baseurl}}/assets/images/facebook.svg" alt="Facebook" width="32px">
+        </a>/hackintoshbrazil
       </div>
-
+      <div class="col-sm-1">
+        <a class="nav-link" href="https://discord.gg/xvYvXfsMew" target="_blank">
+          <img src="{{site.baseurl}}/assets/images/discord.svg" alt="Discord" width="32px">
+        </a>
+        Servidor Discord
+      </div>
     </div>
-
   </div>
 </div>
