@@ -10,7 +10,7 @@ Criamos também um servidor no Discord para facilitar a ajuda aos membros [Hacki
 
 Esperamos que você consiga realizar seu hack com sucesso!!!
 
-Caso queira contribuir conosco, acesse o Discord e envie mensagem no canal de texto Contribuição marcando @Fariaz
+Caso queira contribuir conosco, acesse o Discord e envie mensagem no canal de texto Contribuição marcando @moderador
 
 ## Licença
 
