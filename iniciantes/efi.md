@@ -1,3 +1,8 @@
+---
+layout: page
+title: EFI
+---
+
 # EFI
 
 O que é EFI?
