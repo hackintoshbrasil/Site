@@ -27,5 +27,5 @@ Faça o clone do [repositório](https://github.com/hackintoshbrasil/site) do pro
 Ao realizar edições leve em conta que outras pessoas contribuíram antes de você, dê os créditos necessários.
 
 Créditos:
-* [Deivid Farias](https://www.facebook.com/dfariaz/)
-* [Marcelo Sasamoto](https://www.facebook.com/marcelo.sasamoto/)
+* [Deivid Farias](https://github.com/dfariaz)
+* Marcelo Sasamoto
